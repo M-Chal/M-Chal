@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Coursework and some side projects :)
 - 🌱 I’m currently learning web development using React, MongoDB, Express and Node JS
 - 🤔 I’m looking for help with developing Saas applications
-- 💬 Ask me about my previous business ventures ;)
+- 💬 Ask me about my previous projects ;)
 - 📫 How to reach me: matt@ctsdesign.co.uk
 - ⚡ Fun fact: I'm a second year university student :p
 
