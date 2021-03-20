@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with developing Saas applications
 - 💬 Ask me about my previous projects ;)
 - 📫 How to reach me: matt@ctsdesign.co.uk
-- ⚡ Fun fact: I'm a second year university student :p
 
 
 
