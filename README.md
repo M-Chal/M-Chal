@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on some exciting side projects :)
-- 🌱 I’m currently learning GraphQL & Firebase
-- 🤔 I’m looking for help with learning Machine Learning
-- 💬 Ask me about my previous projects ;)
+- 🏤 I currently work at the Post Office as a full stack developer
+- 🔭 I’m currently working on developing my Saas company and website :)
+- 🌱 I’m currently learning about physics in code, firebase for my saas project
+- 🤔 I’m looking for help with game development, business development
+- 💬 Ask me about anything 📖 Web development, software engineering or Business!
 - 📫 How to reach me: matt@ctsdesign.co.uk
 
 
