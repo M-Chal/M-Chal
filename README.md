@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏤 I currently work at the Post Office as a full stack developer
+- 🏤 I currently work at DXC as a Software Engineer
 - 🔭 I’m currently working on developing my Saas company and website :)
 - 🌱 I’m currently learning about physics in code, firebase for my saas project
 - 🤔 I’m looking for help with game development, business development
